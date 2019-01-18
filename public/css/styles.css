@@ -1,0 +1,9 @@
+.quote {
+    font: 400 72px "Arizonia", Helvetica, sans-serif;
+    color: rgb(95, 244, 182);
+    text-align: center;
+}
+
+.post-title {
+    color: rgb(1, 214, 115);
+}
